@@ -1,0 +1,21 @@
+/* css (cascading style sheet ) | CSS Syntex :: selector { property : value; |  */
+
+/* types of selector */
+
+/* 1. Element Selcetor - e.g,- body , h1 - h6 , p , div , section , img ....... . */
+body{
+    background-color: antiquewhite;
+    
+}
+
+/* 2. class selector -- e.g, .__class_nme__{ property : value ;} */
+.red{
+    color: aquamarine;
+    color: red;
+}
+
+/* 2. ID selector -- e.g, #__ID_nme__{ property : value ;} */
+#blue{
+    color: blue;
+    /* border: 2px solid darkgoldenrod; --CSS Comment */
+}
